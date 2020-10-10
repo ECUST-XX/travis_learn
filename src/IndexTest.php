@@ -5,7 +5,7 @@ class IndexTest extends TestCase
 {
 	public function testIndex()
 	{
-		$this->assertEquals('hello travis ci','hello travis ci2');
+		$this->assertEquals('hello travis ci','hello travis ci');
 	}
 }
 
