@@ -1,4 +1,4 @@
 <?php
 
-echo "src"
+echo "hello world"
 
